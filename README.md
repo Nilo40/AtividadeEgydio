@@ -57,7 +57,7 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 - [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
 - [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
-<img src="Callme/Diagrama.jpg" alt="Diagrama" width="150"/>
+<img src="Callme/Diagrama.jpg" alt="Diagrama"/>
 
 ---
 
