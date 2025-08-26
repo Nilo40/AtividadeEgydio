@@ -1,67 +1,88 @@
-<h1 align='center'>
-    <img src='logoCallmeapp.png'>
-    <p>The future of service
+<h1 align="center">
+  <img src="logoCallmeapp.png" alt="Callme App" width="150"/>
+  <br>
+  Callme App
 </h1>
 
+<p align="center">🚀 O futuro do atendimento com inteligência artificial</p>
 
-## 📕 Sobre 
+<div align="center">
 
-**Callme App** é um software mobile utilizado para gerenciar chamados realizados por funcionários para a assistência técnica integrado a IA, os funcionários criam chamados através do app, primeiramente a IA recebe o chamado e apresenta uma solução prévia ao funcionário, caso não resolva, encaminha o chamado ao técnico responsável na área.
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![React Native](https://img.shields.io/badge/React%20Native-0.72-blue)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-✓-3178C6)]()
 
-Utilizando o método ágil Scrum construimos o software com React Native e linguagem TypeScript.
+</div>
 
-Essa idéia veio devido ao aumento de insatisfação com os softwares já existentes, em que não fornecem a IA integrada.
+---
 
+## 📖 Sobre o Projeto  
 
-## 🛠 Ferramentas
+O **Callme App** é um aplicativo mobile para **abertura e gerenciamento de chamados** por funcionários para a assistência técnica, com suporte integrado de **IA**.  
 
-- [Trello](https://trello.com/pt-BR?campaign=19269516466&adgroup=148159506607&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=641463051735&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjwtdi_BhACEiwA97y8BOmg9xCVoUXGvohRXK97MuFBf8611y0mIXvA9CFYWMsTX4dp-XYb8RoCPRQQAvD_BwE)
-- [Astah UML](https://astah.net/products/astah-uml/)
-- [Node.js](https://nodejs.org/pt)
-- [React Native](https://reactnative.dev)
-- [Android Studio](https://developer.android.com/studio?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwtdi_BhACEiwA97y8BK-tY4oR5cK3W_CzLqqa771C1-3OcUvI-uAFNPAHbnRxR6vZxkYKlxoC7z0QAvD_BwE&hl=pt-br)
+🔹 Funcionários abrem chamados no app.  
+🔹 A **IA** recebe o chamado e sugere uma solução imediata.  
+🔹 Caso não seja resolvido, o chamado é **encaminhado automaticamente ao técnico responsável**.  
 
+O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scrum** como metodologia ágil.  
 
+> 🎯 Motivação: A ideia surgiu devido à insatisfação com softwares existentes que não oferecem integração com inteligência artificial.  
 
-## 🗒️ Modelagem de Requisitos
+---
 
-- [Diagramas](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta)
-- [Sprints Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
-- [Descrição Caso de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)
+## 🛠️ Tecnologias Utilizadas  
 
+- [React Native](https://reactnative.dev/)  
+- [TypeScript](https://www.typescriptlang.org/)  
+- [Node.js](https://nodejs.org/pt)  
+- [Android Studio](https://developer.android.com/studio)  
+- [Astah UML](https://astah.net/products/astah-uml/)  
+- [Trello](https://trello.com/)  
 
+---
 
-## 📃 Documentação do Projeto
+## 📂 Estrutura do Repositório  
 
-- [Documentação](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)
+- **/Callme/Modelagem_de_Requisitos** → Diagramas, backlog, casos de uso  
+- **/Callme/PIM** → Documentação acadêmica (PIM 3º semestre)  
+- **/Callme/code** → Código-fonte do app  
 
+---
 
+## 🗒️ Documentação  
 
-## 🆙 Como Contribuir
+- [📌 Diagramas UML](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta)  
+- [📌 Sprint Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
+- [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
+- [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
-- Instale o [Android Studio](https://developer.android.com/studio?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwtdi_BhACEiwA97y8BK-tY4oR5cK3W_CzLqqa771C1-3OcUvI-uAFNPAHbnRxR6vZxkYKlxoC7z0QAvD_BwE&hl=pt-br)
+---
 
-- Instale o [Node.js](https://nodejs.org/pt)
+## 🚀 Como Rodar o Projeto  
+
+### Pré-requisitos  
+- [Android Studio](https://developer.android.com/studio)  
+- [Node.js](https://nodejs.org/pt)  
+- [Expo CLI](https://expo.dev/)  
+
+### Passo a passo  
 
 ```bash
-    # Clone o projeto
-    $ git clone https://github.com/Devluisgsouza/Callme_App.git 
-```
+# Clone o projeto
+$ git clone https://github.com/Devluisgsouza/Callme_App.git 
 
-```bash
-    # Instale a dependência
-    $ npm install
-```
+# Entre no diretório
+$ cd Callme/code
 
-```bash
-    # Instale o Expo-cli
-    $ npm install -g expo-cli
-```
+# Instale as dependências
+$ npm install
 
-```bash
-    # Entre na pasta code
-    $ cd Callme/code
-```
+# Instale o Expo CLI (caso não tenha)
+$ npm install -g expo-cli
+
+# Inicie o projeto
+$ npx expo start
 
 ```bash
     # Conectar o código ao emulador android
