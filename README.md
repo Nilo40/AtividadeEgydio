@@ -37,7 +37,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 
 ---
 
-##  Backlog do Produto
+##  📋 Backlog do Produto
 
 ### Sprint 1: Estrutura e Preparação do Ambiente
 - Configuração completa do ambiente de desenvolvimento e integração com ferramentas de versionamento (Git).
@@ -67,11 +67,11 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 - Configuração de logs e monitoramento básico do sistema para manutenção contínua.
 
 ---
-## Cronograma de Evolução
+## 📈 Cronograma de Evolução
 <img src="Callme/Cronograma.png" alt="Cronograma"/>
 
 ---
-## Tabela das Sprints
+## 📅 Tabela das Sprints
 
 | Sprint | Período (2025) | Objetivos | Entregas | Documentação |
 |--------|----------------|-----------|----------|--------------|
