@@ -30,8 +30,14 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 > 🎯 Motivação: A ideia surgiu devido à insatisfação com softwares existentes que não oferecem integração com inteligência artificial.  
 
 ---
+##🧠 Resumo do Desafio
 
-#  Backlog do Produto
+O CallMe App nasceu para resolver a dificuldade da empresa parceira em gerenciar e acompanhar chamados técnicos de forma eficiente. O processo manual gerava atrasos, falhas de comunicação e retrabalho.
+Com o uso de Inteligência Artificial, o sistema automatiza a classificação dos chamados e sugere soluções, oferecendo agilidade, organização e inteligência operacional em plataformas desktop, web e mobile.
+
+---
+
+##  Backlog do Produto
 
 ### Sprint 1: Estrutura e Preparação do Ambiente
 - Configuração completa do ambiente de desenvolvimento e integração com ferramentas de versionamento (Git).
@@ -65,7 +71,7 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 <img src="Callme/Cronograma.png" alt="Cronograma"/>
 
 ---
-# Tabela das Sprints
+## Tabela das Sprints
 
 | Sprint | Período (2025) | Objetivos | Entregas | Documentação |
 |--------|----------------|-----------|----------|--------------|
