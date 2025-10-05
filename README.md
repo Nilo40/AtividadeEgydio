@@ -61,6 +61,9 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 - Configuração de logs e monitoramento básico do sistema para manutenção contínua.
 
 ---
+## Cronograma de Evolução
+<img src="Callme/Cronogram.png" alt="Cronograma"/>
+---
 
 ## 🛠️ Tecnologias Utilizadas  
 
