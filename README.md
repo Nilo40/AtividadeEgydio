@@ -128,3 +128,9 @@ $ npx expo start
     # Conectar o código ao emulador android
     $ npm run android
 ```
+
+## Dev do Projeto
+
+| Nome do Aluno         | RA      | Turma   |
+|-----------------------|---------|---------|
+| Danilo Alves da Silva | R080CJ$ | DS4P48  |
