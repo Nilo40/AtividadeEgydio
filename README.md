@@ -142,4 +142,4 @@ $ npx expo start
 
 | Nome do Aluno         | RA      | Turma   |
 |-----------------------|---------|---------|
-| Danilo Alves da Silva | R080CJ$ | DS4P48  |
+| Danilo Alves da Silva | R080CJ4 | DS4P48  |
