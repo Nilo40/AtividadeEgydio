@@ -63,6 +63,19 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 ---
 ## Cronograma de Evolução
 <img src="Callme/Cronograma.png" alt="Cronograma"/>
+
+---
+# Tabela das Sprints
+
+| Sprint | Período (2025) | Objetivos | Entregas | Documentação |
+|--------|----------------|-----------|----------|--------------|
+| *Sprint 1 — Estrutura e Preparação do Ambiente* | *19-08/26-08* | Configuração do ambiente de desenvolvimento, integração com Git, criação e configuração do banco de dados SQL Server, definição da arquitetura modular, implementação de segurança inicial. | Ambiente dev configurado, Git integrado, SQL Server com tabelas e relacionamentos, arquitetura modular definida, criptografia de senhas. | Documentação do ambiente, arquitetura e configuração inicial do banco de dados. |
+| *Sprint 2 — Módulo de Usuários e Autenticação* | *26/08-02/09* | Desenvolvimento do cadastro de usuários, validação de dados, sistema de login e autenticação com níveis de permissão, testes unitários e de integração. | CRUD de usuários, login/logout com diferentes permissões (usuário, técnico, admin), testes unitários realizados. | Documentação do sistema de autenticação, níveis de permissão e testes realizados. |
+| *Sprint 3 — Gestão de Chamados* | *02/09-09/09* | Criação da funcionalidade de abertura e acompanhamento de chamados, interface para exibição e filtragem de chamados, integração com banco de dados, testes de consistência e desempenho. | Formulário de abertura de chamados, listagem filtrável por status e prioridade, integração com DB, testes realizados. | Documentação da funcionalidade de chamados, filtragem e integração com o banco de dados. |
+| *Sprint 4 — Inteligência Artificial e Automação* | *16/09 – 23/09* | Treinamento inicial da IA de classificação, implementação de sugestões automáticas de soluções, ajustes no modelo de IA com base nos testes. | Modelo de IA para classificação de chamados, endpoint de sugestão automática de soluções, ajustes e métricas iniciais. | Documentação sobre IA, fluxos de sugestões automáticas e melhorias realizadas. |
+| *Sprint 5 — Otimização, Segurança e Entrega Final* | *23/09 – 30/09* | Melhorias de segurança avançadas (JWT, políticas de acesso), refatoração de código, ajustes na arquitetura para otimização, documentação técnica e do usuário, testes finais de validação e usabilidade. | Segurança otimizada, código refatorado, arquitetura melhorada, sistema estável, documentação completa. | Documentação técnica e do usuário, guia de segurança, resultados de testes finais. |
+| *Entrega Final* | *07/10* | Versão 1.0 do sistema finalizada e entregue. | Sistema funcional e protótipo completo, documentação pronta. | Documentação final do sistema e plano de manutenção. |
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
@@ -92,19 +105,6 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 - [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
 <img src="Callme/Diagrama.jpg" alt="Diagrama"/>
-
----
-# Tabela das Sprints
-
-| Sprint | Período (2025) | Objetivos | Entregas | Documentação |
-|--------|----------------|-----------|----------|--------------|
-| *Sprint 1 — Estrutura e Preparação do Ambiente* | *19-08/26-08* | Configuração do ambiente de desenvolvimento, integração com Git, criação e configuração do banco de dados SQL Server, definição da arquitetura modular, implementação de segurança inicial. | Ambiente dev configurado, Git integrado, SQL Server com tabelas e relacionamentos, arquitetura modular definida, criptografia de senhas. | Documentação do ambiente, arquitetura e configuração inicial do banco de dados. |
-| *Sprint 2 — Módulo de Usuários e Autenticação* | *26/08-02/09* | Desenvolvimento do cadastro de usuários, validação de dados, sistema de login e autenticação com níveis de permissão, testes unitários e de integração. | CRUD de usuários, login/logout com diferentes permissões (usuário, técnico, admin), testes unitários realizados. | Documentação do sistema de autenticação, níveis de permissão e testes realizados. |
-| *Sprint 3 — Gestão de Chamados* | *02/09-09/09* | Criação da funcionalidade de abertura e acompanhamento de chamados, interface para exibição e filtragem de chamados, integração com banco de dados, testes de consistência e desempenho. | Formulário de abertura de chamados, listagem filtrável por status e prioridade, integração com DB, testes realizados. | Documentação da funcionalidade de chamados, filtragem e integração com o banco de dados. |
-| *Sprint 4 — Inteligência Artificial e Automação* | *16/09 – 23/09* | Treinamento inicial da IA de classificação, implementação de sugestões automáticas de soluções, ajustes no modelo de IA com base nos testes. | Modelo de IA para classificação de chamados, endpoint de sugestão automática de soluções, ajustes e métricas iniciais. | Documentação sobre IA, fluxos de sugestões automáticas e melhorias realizadas. |
-| *Sprint 5 — Otimização, Segurança e Entrega Final* | *23/09 – 30/09* | Melhorias de segurança avançadas (JWT, políticas de acesso), refatoração de código, ajustes na arquitetura para otimização, documentação técnica e do usuário, testes finais de validação e usabilidade. | Segurança otimizada, código refatorado, arquitetura melhorada, sistema estável, documentação completa. | Documentação técnica e do usuário, guia de segurança, resultados de testes finais. |
-| *Entrega Final* | *07/10* | Versão 1.0 do sistema finalizada e entregue. | Sistema funcional e protótipo completo, documentação pronta. | Documentação final do sistema e plano de manutenção. |
-
 
 ---
 
