@@ -62,7 +62,7 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 
 ---
 ## Cronograma de Evolução
-<img src="Callme/Cronogram.png" alt="Cronograma"/>
+<img src="Callme/Cronograma.png" alt="Cronograma"/>
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
