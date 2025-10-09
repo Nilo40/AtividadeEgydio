@@ -42,7 +42,7 @@ Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/N
 
 ---
 ## 📈 Cronograma de Evolução
-<img src="Callme/Cronograma.png" alt="Cronograma"/>
+Para ver o backlog do produto, acesse: [Cronograma de Evolução](https://github.com/Nilo40/Cronograma_de_evolucao)
 
 ---
 ## 📅 Tabela das Sprints
