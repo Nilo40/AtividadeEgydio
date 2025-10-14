@@ -110,8 +110,6 @@ $ npx expo start
     $ npm run android
 ```
 
-## Dev do Projeto
+## Devs do Projeto
 
-| Nome do Aluno         | RA      | Turma   |
-|-----------------------|---------|---------|
-| Danilo Alves da Silva | R080CJ4 | DS4P48  |
+<table> <tr> <td align="center"> <a href="https://github.com/Devluisgsouza"> <img src="https://avatars.githubusercontent.com/u/175893858?v=4" width="100px;" alt="Luis Souza"/> <br /> <sub><b>Luis Souza</b></sub> </a> <br /> <a href="https://github.com/Devluisgsouza">🔗 GitHub </a> </td> <td align="center"> <a href="https://github.com/Felipe00702"> <img src="https://avatars.githubusercontent.com/u/205240478?v=4" width="100px;" alt="Felipe Silva"/> <br /> <sub><b>Felipe Silva</b></sub> </a> <br /> <a href="https://github.com/Felipe00702">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/Nilo40"> <img src="https://avatars.githubusercontent.com/u/112767071?v=4" width="100px;" alt="Danilo Alves"/> <br /> <sub><b>Danilo Alves</b></sub> </a> <br /> <a href="https://github.com/Nilo40">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/endlymelo"> <img src="https://avatars.githubusercontent.com/u/202872646?v=4" width="100px;" alt="Endly Melo"/> <br /> <sub><b>Endly Melo</b></sub> </a> <br /> <a href="https://github.com/endlymelo">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/caiogoulart1"> <img src="https://avatars.githubusercontent.com/u/205272622?v=4" width="100px;" alt="Caio Goulart"/> <br /> <sub><b>Caio Goulart</b></sub> </a> <br /> <a href="https://github.com/caiogoulart1">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/TheVarella"> <img src="https://avatars.githubusercontent.com/u/95414997?v=4" width="100px;" alt="Gustavo Varella"/> <br /> <sub><b>Gustavo Varella</b></sub> </a> <br /> <a href="https://github.com/TheVarella">🔗 GitHub</a> </tr> </table>
