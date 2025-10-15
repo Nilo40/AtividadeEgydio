@@ -36,6 +36,48 @@ O CallMe App nasceu para resolver a dificuldade da empresa parceira em gerenciar
 Com o uso de Inteligência Artificial, o sistema automatiza a classificação dos chamados e sugere soluções, oferecendo agilidade, organização e inteligência operacional em plataformas desktop, web e mobile.
 
 ---
+## 📋 Definition of Ready (DoR)
+
+Um item ou sprint é considerado **pronto para início** quando atende aos seguintes critérios:
+
+1. 🧾 **Descrição clara e completa**  
+   A história de usuário ou tarefa está bem detalhada, com objetivo, contexto e critérios de aceitação definidos.
+
+2. ⚙️ **Critérios de aceitação documentados**  
+   Todos os critérios foram revisados e compreendidos pela equipe de desenvolvimento.
+
+3. ⏱️ **Estimativa aprovada**  
+   A tarefa foi estimada e incluída no sprint backlog de forma coerente com a capacidade da equipe.
+
+4. 🔗 **Dependências identificadas**  
+   Todas as dependências externas (APIs, integrações, dados ou pessoas) foram mapeadas e têm solução planejada.
+
+5. 🚫 **Sem bloqueios críticos**  
+   O item está livre de impedimentos que possam atrasar o desenvolvimento.
+
+---
+
+## ✅ Definition of Done (DoD)
+
+Uma tarefa ou história de usuário é considerada **concluída** quando cumpre todos os pontos abaixo:
+
+1. 💻 **Código implementado e versionado**  
+   O código está commitado no repositório correto e passou por revisão (pull request aprovado).
+
+2. 🧠 **Critérios de aceitação atendidos**  
+   A funcionalidade cumpre integralmente o que foi definido no início da tarefa.
+
+3. 🧪 **Testes realizados e aprovados**  
+   Inclui testes unitários, de integração e/ou manuais com sucesso comprovado.
+
+4. 🧾 **Documentação atualizada**  
+   README, comentários e instruções foram ajustados conforme a nova entrega.
+
+5. 👁️ **Interface validada (quando aplicável)**  
+   Layout e experiência de uso revisados, sem falhas visuais ou de navegação.
+
+---
+
 
 ##  📋 Backlog do Produto
 Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/Nilo40/Backlog_do_produto/blob/main/README.md)
