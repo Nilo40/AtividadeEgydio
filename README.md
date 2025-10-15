@@ -72,7 +72,7 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/N
 ## 🗒️ Documentação  
 
 - [📌 Diagramas UML](Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema_corrigido.asta)  
-- [📌 Sprint Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
+- [📌 Sprint Backlog](Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
 - [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
 - [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
